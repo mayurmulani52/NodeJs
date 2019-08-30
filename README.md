@@ -1,2 +1,5 @@
 # NodeJs
-Node Js Examples
+Node.js Examples.
+
+This repository contains varioius examples of Node.js
+
